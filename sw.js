@@ -1,4 +1,4 @@
-const CACHE = 'rep-web-v1';
+const CACHE = 'rep-web-v2';
 const ASSETS = [
   './',
   './index.html',
